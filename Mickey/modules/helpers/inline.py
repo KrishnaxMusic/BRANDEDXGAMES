@@ -20,11 +20,12 @@ DEV_OP = [
         InlineKeyboardButton(text="💦 ᴀʙᴏᴜᴛ 💦", url=f"https://t.me/BRANDED_PAID_CC"),
     ],
 ]
+
 PNG_BTN = [
     [
         InlineKeyboardButton(
-            text="🧸 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ 🧸",
-            url=f"https://t.me/{MickeyBot.username}?startgroup=true",
+            text="💫 ɢᴀᴍᴇꜱ 💫",
+            url=f"https://poki.com/",
         ),
     ],
     [
@@ -45,12 +46,12 @@ BACK = [
 
 HELP_BTN = [
     [
-        InlineKeyboardButton(text="❤️‍🔥 ᴄʜᴀɴɴᴇʟ ❤️‍🔥", url=f"https://t.me/BRANDRD_BOT"),
-        InlineKeyboardButton(text="💦 ᴀʙᴏᴜᴛ 💦", url=f"https://t.me/BRANDED_PAID_CC"),
-    ],
-    [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
         InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
+    ],
+    [
+        InlineKeyboardButton(text="❤️‍🔥 ᴄʜᴀɴɴᴇʟ ❤️‍🔥", url=f"https://t.me/BRANDRD_BOT"),
+        InlineKeyboardButton(text="💦 ᴀʙᴏᴜᴛ 💦", url=f"https://t.me/BRANDED_PAID_CC"),
     ],
 ]
 
@@ -65,7 +66,7 @@ CLOSE_BTN = [
 CHATBOT_ON = [
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD",
+        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
     ],
 ]
 
@@ -87,7 +88,7 @@ S_BACK = [
 CHATBOT_BACK = [
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD",
+        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
     ],
 ]
 
@@ -103,7 +104,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="🚀 ʜᴇʟᴘ 🚀", url=f"https://t.me/{MickeyBot.username}?start=help"
+            text="💫 ɢᴀᴍᴇꜱ 💫", url=f"https://poki.com/"
         ),
         InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
     ],
@@ -113,7 +114,7 @@ HELP_BUTN = [
 ABOUT_BTN = [
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD",
+        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
     ],
     [
         InlineKeyboardButton(text="❤️‍🔥 ᴄʜᴀɴɴᴇʟ ❤️‍🔥", url=f"https://t.me/BRANDRD_BOT"),
@@ -121,6 +122,6 @@ ABOUT_BTN = [
     ],
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD",
+        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
     ],
 ]
