@@ -25,7 +25,7 @@ PNG_BTN = [
     [
         InlineKeyboardButton(
             text="💫 ɢᴀᴍᴇꜱ 💫",
-            url=f"https://poki.com/",
+            url=f"https://www.crazygames.com/t/with-friends",
         ),
     ],
     [
@@ -104,7 +104,7 @@ HELP_START = [
 HELP_BUTN = [
     [
         InlineKeyboardButton(
-            text="💫 ɢᴀᴍᴇꜱ 💫", url=f"https://poki.com/"
+            text="💫 ɢᴀᴍᴇꜱ 💫", url=f"https://poki.com/en/online-worlds"
         ),
         InlineKeyboardButton(text="🐳 ᴄʟᴏsᴇ 🐳", callback_data="CLOSE"),
     ],
@@ -122,6 +122,6 @@ ABOUT_BTN = [
     ],
     [
         InlineKeyboardButton(text="🥀 ᴏᴡɴᴇʀ 🥀", url=f"https://t.me/BRANDEDKING82"),
-        InlineKeyboardButton(text="✨ ꜱᴜᴘᴘᴏʀᴛ ✨", url=f"https://t.me/BRANDED_WORLD"),
+        InlineKeyboardButton(text="✨ ɢᴀᴍᴇꜱ ✨", url=f"https://tbot.xyz/lumber/#eyJ1Ijo2MjU4ODc3MjA1LCJuIjoi8J2XlfCdl6XwnZeU8J2XofCdl5fwnZeY8J2XlyDwk4ap8J+HvfCThqog8J2XnvCdl5zwnZeh8J2XmiAiLCJnIjoiTHVtYmVySmFjayIsImNpIjoiNDcyOTQ2MjUyMDMzMTM2MzY4NiIsImkiOiJCUUFBQUJYakRuVUJBQUFBNEFNQkFJTFZGWk9NV1RCQyJ9ZWNmMzMwMGE2NjJiZGVkMDI2OGUwZDg4ZGE4NWRiYjU=&tgShareScoreUrl=tgb%3A%2F%2Fshare_game_score%3Fhash%3DNxcccgVdfCQKNokgrfYJ"),
     ],
 ]
